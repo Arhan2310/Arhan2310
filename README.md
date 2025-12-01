@@ -24,7 +24,7 @@ I am a *B.Sc (Computer Science)* First Year Student at *V.N.S.G.U (Government Sc
 ![Arhan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Arhan2310&show_icons=true&theme=radical)
 
 <p align="left">
-<a href="mailto:your-email@example.com">
+<a href="mailto:sajra9013@gmial.com">
   <img src="https://img.shields.io/badge/Email-Contact%20Me-red?style=flat-square&logo=gmail" alt="Email" />
 </a>
 </p>
